@@ -1,6 +1,6 @@
 # Task Management App 📝✅  
 
-A simple yet powerful **Task Management App** built with **React, Redux, and Tailwind CSS**. This app allows users to efficiently **create, update, delete, and manage tasks** with different priorities and statuses.  
+A simple yet powerful **Task Management App** built with **React, Redux Toolkit, and Tailwind CSS**. This app allows users to efficiently **create, update, delete, and manage tasks** with different priorities and statuses.  
 
 ---
 
