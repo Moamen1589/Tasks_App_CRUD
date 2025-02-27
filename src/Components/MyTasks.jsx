@@ -77,8 +77,8 @@ export default function MyTasks() {
                             tasks.map((user) => (
                                 <tr key={user.id} className="border-b">
                                     <td className="py-2 px-4 text-center">{user.id}</td>
-                                    <td className="py-2 px-4 text-center flex justify-center items-center">
-                                        <img className="w-36" src={user.image} alt="Task" />
+                                    <td className="py-2 px-4 text-center ">
+                                        <img className="max-w-44" src={user.image} alt="Task" />
                                     </td>
                                     <td className="py-2 px-4 text-center">{user.title}</td>
                                     <td className="py-2 px-4 text-center">{user.description}</td>
